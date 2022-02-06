@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 import sys
-from main import Statystyka
+from statystyka import Statystyka
 
 valid = [i for i in range(9)]
 
